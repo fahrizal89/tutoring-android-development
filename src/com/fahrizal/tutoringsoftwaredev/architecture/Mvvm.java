@@ -1,9 +1,9 @@
 package com.fahrizal.tutoringsoftwaredev.architecture;
 
-import com.fahrizal.tutoringsoftwaredev.tutorial.CondimentDecorator;
+import com.fahrizal.tutoringsoftwaredev.tutorial.LanguageDecorator;
 import com.fahrizal.tutoringsoftwaredev.tutorial.AndroidTutorial;
 
-public class Mvvm extends CondimentDecorator {
+public class Mvvm extends LanguageDecorator {
 
     private final AndroidTutorial androidTutorial;
 

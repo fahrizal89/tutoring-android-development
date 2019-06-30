@@ -1,9 +1,9 @@
 package com.fahrizal.tutoringsoftwaredev.architecture;
 
 import com.fahrizal.tutoringsoftwaredev.tutorial.AndroidTutorial;
-import com.fahrizal.tutoringsoftwaredev.tutorial.CondimentDecorator;
+import com.fahrizal.tutoringsoftwaredev.tutorial.LanguageDecorator;
 
-public class Clean extends CondimentDecorator {
+public class Clean extends LanguageDecorator {
 
     private final AndroidTutorial androidTutorial;
 
